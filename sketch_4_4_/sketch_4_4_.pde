@@ -1,11 +1,15 @@
-float a = 2.88;
-int b = round(a);
-println(b);
 
-float c = 66.67;
-int d = ceil(c);
-println(d);
+String b = "67 mustaardddd";
+String c = "41 but i got 41";
+String e = b + " " + c;
 
-float e = 41.41;
-int f = floor(e);
-println(f);
+
+println(e);
+
+
+String f = "67 mustaardddd";
+String g = "41 but i got 41";
+String h = " ";
+
+h = f + h + g;
+println(h);
